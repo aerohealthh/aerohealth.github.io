@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title> aerohealth</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="banner">
+	<div class="navbar">
+			<img src="logo.png" class="logo">
+			
+</div>
+<div class="content">
+<h1>GET THE AQI OF YOUR AREA</h1>
+<p>We'll give personised suggestions for your health according to the aqi of your area</p>
+</div>
+<div>
+<button type="button"><span></span>AQI with Health feature</button>
+<button type="button"><span></span>Blogs</button>
+</div>
+</body>
+</html>
+
