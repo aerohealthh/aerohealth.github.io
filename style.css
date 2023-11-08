@@ -3,18 +3,18 @@ margin: 0;
 padding: 0;
 }
 font family: "sans-serif";
-.banner{
+banner{
 width: "100%";
 height: "100vh";
 background-image: linear-gradient (rgba (0,0,0,0.75),rgba (0,0,0,0.75)),url("pollution.jpg");
 background-size: "cover";
 background-position: "centre";
 }
-.logo{
+logo{
 	width: "120px";
 	cursor: "pointer";
 }
-.content{
+content{
 	width: "100%";
 	position: "absolute";
 	top: "50%";
