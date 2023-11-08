@@ -6,7 +6,7 @@ font family: sans-serif;
 .banner{
 width: "100%";
 height: "100vh";
-background-image: linear-gradient (rgba (0,0,0,0.75),rgba (0,0,0,0.75)),url(background.jpg);
+background-image: linear-gradient (rgba (0,0,0,0.75),rgba (0,0,0,0.75)),url("pollution.jpg");
 background-size: cover;
 background-position: centre;
 }
@@ -20,7 +20,7 @@ background-position: centre;
 	top: "50%";
 	transform: translate ("-50%");
 	text-align: center;
-	color: #fff;
+	color: "#fff";
 }
 .content h1{
 	font-size: "70px";
@@ -38,15 +38,15 @@ text-align: center;
 margin: "20px" "10px";
 border-radius: "25px";
 font-weight: bold;
-border: "2px" solid #009688;
+border: "2px" solid "#009688";
 background:transparent;
-color: #fff;
+color: "#fff";
 cursor: pointer;
 position: relative;
 overflow: hidden;
 }
 span{
-background: #009688;
+background: "#009688";
 height: "100%";
 width: 0;
 border-radius: "25px";
