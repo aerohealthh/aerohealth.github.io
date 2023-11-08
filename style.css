@@ -10,9 +10,22 @@ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(polluti
 background-size: cover;
 background-position: centre;
 }
+.navbar{
+	width: 85%;
+	margin: auto;
+	padding: 35px 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}	
 .logo{
 	width: 120px;
 	cursor: pointer;
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 20px;
 }
 .content{
 	width: 100%;
